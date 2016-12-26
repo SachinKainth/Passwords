@@ -2,7 +2,7 @@
 
 Write a program or API that can generate a one time password, and verify the password is valid for just the one user.
 
-## The Requirements
+### The Requirements
 
 Inputs of the program should be:
 
